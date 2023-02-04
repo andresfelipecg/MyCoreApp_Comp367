@@ -1,0 +1,4 @@
+#gitignore Andres Cuero
+/obj/
+/Properties/
+/appsettings.json
